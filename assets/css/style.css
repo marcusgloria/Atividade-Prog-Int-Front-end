@@ -1,0 +1,14 @@
+.item{
+    display: none;
+}
+
+.item.active{
+    display: block;
+}
+
+.receitas{
+    max-height: 300px;
+    image-rendering: optimizeQuality;
+    object-fit: cover;
+
+}
